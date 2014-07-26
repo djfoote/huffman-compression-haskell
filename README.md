@@ -1,4 +1,4 @@
 huffman-compression-haskell
 ===========================
 
-Compresses files using the optimal binary encoding 
+Compresses text files using the optimal binary encoding 
